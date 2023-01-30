@@ -1,0 +1,15 @@
+git log --oneline  --para ver todos los commit realizados
+
+git branch <nombre de rama> --crear una rama en VS el nombre entre ""
+
+git branch --ver las ramas y en cual estamos trabando
+
+git checkout <nombre de rama> --mover en que rama trabajar
+
+//FUSIONAR RAMAS
+estar en la rama master
+git merge <nombre rama a fusionar>
+
+
+git branch -d <nombrerama> --eliminar una rama
+  
